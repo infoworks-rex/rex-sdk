@@ -1,0 +1,120 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/infoworks-rex/u-boot.git
+	branch = master
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/infoworks-rex/kernel.git
+	branch = master
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/infoworks-rex/buildroot.git
+	branch = master
+[submodule "rkbin"]
+	path = rkbin
+	url = https://github.com/infoworks-rex/rkbin.git
+	branch = master
+[submodule "docs"]
+	path = docs
+	url = https://github.com/infoworks-rex/docs.git
+	branch = master
+[submodule "tools"]
+	path = tools
+	url = https://github.com/infoworks-rex/tools.git
+	branch = master
+[submodule "device/rockchip"]
+	path = device/rockchip
+	url = https://github.com/infoworks-rex/device-custom.git
+	branch = master
+[submodule "prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu"]
+	path = prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu
+	url = https://github.com/infoworks-rex/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu.git
+	branch = master
+[submodule "external/RKNPUTools"]
+	path = external/RKNPUTools
+	url = https://github.com/infoworks-rex/RKNPUTools.git
+	branch = master
+[submodule "app/QLauncher"]
+	path = app/QLauncher
+	url = https://github.com/infoworks-rex/QLauncher.git
+	branch = master
+[submodule "external/alsa-config"]
+	path = external/alsa-config
+	url = https://github.com/infoworks-rex/alsa-config.git
+	branch = master
+[submodule "external/audioservice"]
+	path = external/audioservice
+	url = https://github.com/infoworks-rex/audioservice.git
+	branch = master
+[submodule "external/bluez-alsa"]
+	path = external/bluez-alsa
+	url = https://github.com/infoworks-rex/bluez-alsa.git
+	branch = master
+[submodule "external/camera_engine_cifisp"]
+	path = external/camera_engine_cifisp
+	url = https://github.com/infoworks-rex/camera_engine_cifisp.git
+	branch = master
+[submodule "external/camera_engine_rkisp"]
+	path = external/camera_engine_rkisp
+	url = https://github.com/infoworks-rex/camera_engine_rkisp.git
+	branch = master
+[submodule "external/ffmpeg"]
+	path = external/ffmpeg
+	url = https://github.com/infoworks-rex/ffmpeg.git
+	branch = master
+[submodule "external/gstreamer-camera"]
+	path = external/gstreamer-camera
+	url = https://github.com/infoworks-rex/gstreamer-camera.git
+	branch = master
+[submodule "external/minigui"]
+	path = external/minigui
+	url = https://github.com/infoworks-rex/minigui.git
+	branch = master
+[submodule "external/rk_pcba_test"]
+	path = external/rk_pcba_test
+	url = https://github.com/infoworks-rex/rk_pcba_test.git
+	branch = master
+[submodule "external/rknpu"]
+	path = external/rknpu
+	url = https://github.com/infoworks-rex/rknpu.git
+	branch = master
+[submodule "external/rknn_demo"]
+	path = external/rknn_demo
+	url = https://github.com/infoworks-rex/rknn_demo.git
+	branch = master
+[submodule "external/rkupdate"]
+	path = external/rkupdate
+	url = https://github.com/infoworks-rex/rkupdate.git
+	branch = master
+[submodule "external/rkwifibt"]
+	path = external/rkwifibt
+	url = https://github.com/infoworks-rex/rkwifibt.git
+	branch = master
+[submodule "external/rkscript"]
+	path = external/rkscript
+	url = https://github.com/infoworks-rex/rkscript.git
+	branch = master
+[submodule "external/uvc_app"]
+	path = external/uvc_app
+	url = https://github.com/infoworks-rex/uvc_app.git
+	branch = master
+[submodule "external/gstreamer-rockchip"]
+	path = external/gstreamer-rockchip
+	url = https://github.com/infoworks-rex/gstreamer-rockchip.git
+	branch = master
+[submodule "external/linux-rga"]
+	path = external/linux-rga
+	url = https://github.com/infoworks-rex/linux-rga.git
+	branch = master
+[submodule "external/recovery"]
+	path = external/recovery
+	url = https://github.com/infoworks-rex/recovery.git
+	branch = master
+[submodule "external/mpp"]
+	path = external/mpp
+	url = https://github.com/infoworks-rex/mpp.git
+	branch = master
+[submodule "external/rknn-toolkit"]
+	path = external/rknn-toolkit
+	url = https://github.com/infoworks-rex/rknn-toolkit.git
+	branch = master
